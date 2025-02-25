@@ -1,6 +1,5 @@
 # 📝 Text Classification Report: SMS Spam Collection and 20 Newsgroups Datasets
 
----
 
 ## 🌟 1. Introduction
 
