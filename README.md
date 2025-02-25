@@ -1,9 +1,5 @@
 # 📝 Text Classification Report: SMS Spam Collection and 20 Newsgroups Datasets
 
-**Author:** *Muhammad Tahir Zia (2021465)*  
-**Date:** *February 22, 2025* (assumed based on system date)  
-**Prepared for:** *xAI Analysis* (interpreted contextually)
-
 ---
 
 ## 🌟 1. Introduction
